@@ -17,6 +17,7 @@
     "mongodb": "^3.2.3"
   },
   "devDependencies": {
+    "fsevents": "^2.1.2",
     "nodemon": "^1.18.11"
   }
 }
